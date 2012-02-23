@@ -6,7 +6,7 @@ This StackScrollView is a Twitter iPad like UI for Android. The iPad and iPhone 
 
 
 
-Check out other project developed by [raw engineering.][]
+Check out other project developed by [raw engineering][].
 
 Getting Started
 ==============================================
@@ -29,4 +29,5 @@ we had created in RootViewController class.
 DataviewFragment to StackScollView.
 
 [Here]:https://github.com/raweng/StackScrollView
+
 [raw engineering]:http://www.raweng.com
